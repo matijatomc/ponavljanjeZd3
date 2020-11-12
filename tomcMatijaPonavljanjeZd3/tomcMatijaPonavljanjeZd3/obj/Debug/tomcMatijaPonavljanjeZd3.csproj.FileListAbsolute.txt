@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\bin\Debug\tomcMatijaPonavljanjeZd3.exe.config
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\bin\Debug\tomcMatijaPonavljanjeZd3.exe
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\bin\Debug\tomcMatijaPonavljanjeZd3.pdb
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\obj\Debug\tomcMatijaPonavljanjeZd3.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\obj\Debug\tomcMatijaPonavljanjeZd3.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\obj\Debug\tomcMatijaPonavljanjeZd3.exe
+C:\Users\3.D\source\repos\tomcMatijaPonavljanjeZd3\tomcMatijaPonavljanjeZd3\obj\Debug\tomcMatijaPonavljanjeZd3.pdb
